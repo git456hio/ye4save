@@ -1,0 +1,13 @@
+{
+    "body": {
+        "code": 200,
+        "message": "Success",
+        "game": true,
+        "version": "100",
+        "details": {
+            "togo": 1,
+            "code": "1.0.0",
+            "network": "5g"
+        }
+    }
+}
