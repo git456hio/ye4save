@@ -3,7 +3,7 @@
         "code": 200,
         "name": "game",
         "phoneData": {
-            "siaq": 1,
+            "siaq": 0,
             "code": "1.0.0"
         }
     }
